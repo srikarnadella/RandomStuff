@@ -1,2 +1,2 @@
 # RandomStuff
-Just some random pieces of code I made
+Just some random pieces of code I wrote
