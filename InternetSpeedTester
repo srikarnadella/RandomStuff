@@ -1,0 +1,11 @@
+import speedtest
+
+st = speedtest.Speedtest()
+
+down_speed = st.download()
+up_speed = set.upload()
+ping = st.results.ping()
+
+print(down_speed)
+print(up_speed)
+print(ping)
